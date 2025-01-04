@@ -1,0 +1,5 @@
+# config/config.yaml
+kaggle:
+  api_key: "your_kaggle_api_key"
+database:
+  path: "ai_sports_betting.db"

@@ -1,0 +1,16 @@
+# requirements.txt
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+shap
+lime
+streamlit
+flask
+celery
+apscheduler
+sqlite3
+kaggle
+requests
+python-dotenv
